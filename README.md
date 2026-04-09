@@ -25,6 +25,14 @@ Los usuarios pueden:
 
 ---
 
+## 📸 Capturas de pantalla
+
+<p align="center">
+  <img src="./imagenes/home.png" width="250"/>
+  <img src="./imagenes/catalogo.png" width="250"/>
+  <img src="./imagenes/Adopcion.png" width="250"/>
+</p>
+
 ## ⚙️ Instalación
 
 1. Clonar el repositorio:
